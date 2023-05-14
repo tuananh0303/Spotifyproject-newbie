@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# If you have not installed Tailwind CSS with Create-React-App, you can run:
+
+### `npm install -D tailwindcss`
+
+### `npx tailwindcss init`
+
+### `npm install @tailwindcss/forms`
+
+# react-h5-audio-player
+
+### `npm i react-h5-audio-player`
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -2,6 +2,15 @@
   background-color: #0f172a !important;
   height: 6rem;
 }
+.parent-container-music {
+  position: relative;
+}
+.container-music {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
 .rhap_time,
 .rhap_current-time {
   color: white !important;

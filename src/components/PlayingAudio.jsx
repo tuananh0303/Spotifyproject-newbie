@@ -12,7 +12,7 @@ export default function Playing() {
     handleSetSong(song.id - 1);
   };
   return (
-    <div>
+    <div className="container-music">
       <AudioPlayer
         className="player-music"
         src={song.url}
